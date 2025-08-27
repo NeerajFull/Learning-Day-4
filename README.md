@@ -2,7 +2,7 @@
 
 
 
-1. DSA problem -
+1. ✅ DSA problem -
    - https://leetcode.com/problems/move-zeroes/description/
    - https://leetcode.com/problems/majority-element/description/
 
