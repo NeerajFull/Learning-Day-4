@@ -7,7 +7,7 @@
    - https://leetcode.com/problems/majority-element/description/
 
 
-2. JavaScript Polyfills -
+2. ✅ JavaScript Polyfills -
    - https://www.youtube.com/watch?v=jLck9YDBWvM&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=20&pp=iAQB
    - https://www.youtube.com/watch?v=AoIizkhJoo4&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=19&pp=iAQB0gcJCbIJAYcqIYzv
    - https://www.youtube.com/watch?v=IzoN220lTDk&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=17&pp=iAQB
