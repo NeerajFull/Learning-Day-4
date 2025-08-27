@@ -14,7 +14,7 @@
    - https://www.youtube.com/watch?v=pLRgG52zAbo&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=16&pp=iAQB
    - https://www.youtube.com/watch?v=Suea-A8NK1g&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=15&pp=iAQB
   
-3. Core JS Videos -
+3. ✅ Core JS Videos -
    - https://www.youtube.com/watch?v=VkmUOktYDAU&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=9&t=1659s&pp=iAQB
    - https://www.youtube.com/watch?v=HaJdoFp2OEc&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=11&t=2890s&pp=iAQB0gcJCbIJAYcqIYzv
    - https://www.youtube.com/watch?v=kCfTEoeQvQw&list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&index=12&t=939s&pp=iAQB
